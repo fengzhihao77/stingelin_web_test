@@ -6,6 +6,12 @@ This is the source code for the Natalie Stingelin's Group website at Georgia Tec
 If you are a lab member, you can still look around the source code to understand how the website is built, and help find bugs or issues.
 But if you want to update your information, please contact the maintainer.
 
+## Authors and Maintainers: 
+
+- Harshit Daga (harshitdaga@gatech.edu) [previous maintainer]
+- James Kai (james.kai@gatech.edu) [documented details and created this file; maintainer from 2022 to 2024]
+- Zhihao Feng (zfeng77@gatech.edu) [adapted from Kai; maintainer from 2024-2025]
+
 ## Introduction
 
 This README file contains information on how to update the website content. It is a static 
@@ -144,7 +150,7 @@ Some of the tools as follows can be used to edit or compress images.
 
 ## Testing the changes on the test website
 
-Since the website is static, the effective way to test the changes is to run the website locally on your machine. I (James) personally recommend using the `live-server` extension in Visual Studio Code. You can install the extension from the Visual Studio Code marketplace. Once installed, with the `index.html` file open, you can run the VS Code command `Live Server: Start Server`. This will open the website in your default browser. You can then test the changes on the local website. Close the server by running the command `Live Server: Stop Server`.
+Since the website is static, the effective way to test the changes is to run the website locally on your machine. James personally recommended using the `live-server` extension in Visual Studio Code. You can install the extension from the Visual Studio Code marketplace. Once installed, with the `index.html` file open, you can run the VS Code command `Live Server: Start Server`. This will open the website in your default browser. You can then test the changes on the local website. Close the server by running the command `Live Server: Stop Server`. Alternatively, `Live Preview` can preview the `index.html` inside of the VS Code (tested by Zhihao).
 
 Once you are satisfied with the changes, you can push the changes to the test website. The test website is hosted on Vercel. It is recommended to connect your GitHub account with Vercel. Once connected, you can push the changes to the `main` branch. The changes will be automatically deployed to the test website. You can then test the changes on the test website.
 
