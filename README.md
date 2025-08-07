@@ -14,11 +14,10 @@ But if you want to update your information, please contact the maintainer.
 
 ## Introduction
 
-
 This README file contains information on how to update the website content. It is a static 
 website built with frontend technology only (implemented in jquery), thus no server side code is required.
 The formal website is hosted on Georgia Tech's plesk server and can be found at [Stingelin Formal Website](http://stingelin.gatech.edu/),
-whereas the development version is hosted currently on GitHub, and can be found at [Stingelin Test Website](https://fengzhihao77.github.io/stingelin_web_test.github.io).
+whereas the development version is hosted currently on vercel, and can be found at [Stingelin Test Website](https://stingelin-web-test.vercel.app/).
 The test website is used to test the changes before pushing them to the formal website. Note, the test website is subject to changes depending
 on the maintainer's need.
 
