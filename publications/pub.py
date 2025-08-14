@@ -11,30 +11,29 @@ import unicodedata
 
 # bib_filename = "sample.bib";
 root_dir = "./document/"
-bib_filename = ["publications.bib"]
+bib_filename = ["scopus_2025.bib"]
 # bib_filename = ["sample.bib"];
 out_filename = "pub.json"
 
 # --- PUBLICATION TITLES --- #
+ENTRYTYPE = "ENTRYTYPE"
 AUTHOR = "author"
 TITLE = "title"
-ENTRYTYPE = "ENTRYTYPE"
 YEAR = "year"
-DOI = "doi"
-URL = "url"
-ABSTRACT = "abstract"
 JOURNAL = "journal"
-PUBLISHER = "publisher"
-NOTE = "note"
-SOURCE = "source"
-ID = "ID"
-DOCUMENT_TYPE = "type"
-ABBREV_SOURCE_TITLE = "abbrev_source_title"
-ISSN = "issn"
-JOURNAL_DETAIL = "journal_detail"
 VOLUME = "volume"
 NUMBER = "number"
 PAGES = "pages"
+DOI = "doi"
+URL = "url"
+ABSTRACT = "abstract"
+PUBLISHER = "publisher"
+ISSN = "issn"
+ABBREV_SOURCE_TITLE = "abbrev_source_title"
+DOCUMENT_TYPE = "type"
+SOURCE = "source"
+NOTE = "note"
+JOURNAL_DETAIL = "publication_stage"
 
 g_allowed_columns = [
     AUTHOR,
@@ -47,7 +46,6 @@ g_allowed_columns = [
     PUBLISHER,
     NOTE,
     SOURCE,
-    ID,
     DOCUMENT_TYPE,
     ISSN,
     VOLUME,
@@ -64,7 +62,7 @@ g_allowed_columns = [
 
 def read_bib(filename):
     print("Reading bibtex entries from : " + filename)
-    with open(filename) as bibtex_file:
+    with open(filename, encoding="utf-8") as bibtex_file:
         bib_database = bibtexparser.load(bibtex_file)
     return bib_database
 
