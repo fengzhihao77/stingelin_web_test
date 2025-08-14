@@ -280,6 +280,7 @@ function f_togglePublication(selected_type) {
 var PROJECT_TITLE = "name";
 var PROJECT_DESCRIPTION = "description";
 var PROJECT_APPLICATIONS = "applications";
+var PROJECT_REFERENCES = "references";
 var PROJECT_IMG = "img";
 function f_research(childName) {
 	f_research_projects();
@@ -331,6 +332,16 @@ function f_research_projects(){
 				for (i = 0; i < len; i++) {
 					$app.append("<li>" + applications[i] + "</li>");
 				}
+			}
+			// add references if they are present
+			if (val[PROJECT_REFERENCES] != undefined && val[PROJECT_REFERENCES].length > 0) {
+				references = val[PROJECT_REFERENCES];
+				len = references.length;
+				$clone.find(".references").removeClass("hide")
+				$app = $clone.find(".reference_list")
+				for (i = 0; i < len; i++) {
+					$app.append("<li><a href='" + references[i].url + "' target='_blank'>" + references[i].title + "</a></li>");
+        }
 			}
 			$parent.append($clone);
 		});

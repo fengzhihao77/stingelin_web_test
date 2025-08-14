@@ -428,6 +428,7 @@ function f_togglePeople(a) {
 const PROJECT_TITLE = "name";
 const PROJECT_DESCRIPTION = "description";
 const PROJECT_APPLICATIONS = "applications";
+const PROJECT_REFERENCES = "references";
 const PROJECT_IMG = "img";
 function f_research(b) {
   f_research_projects();
@@ -470,6 +471,18 @@ function f_research_projects() {
         $app = $clone.find(".application_list");
         for (i = 0; i < len; i++) {
           $app.append("<li>" + applications[i] + "</li>");
+        }
+      }
+      if (
+        e[PROJECT_REFERENCES] != undefined &&
+        e[PROJECT_REFERENCES].length > 0
+      ) {
+        references = e[PROJECT_REFERENCES];
+        len = references.length;
+        $clone.find(".references").removeClass("hide");
+        $app = $clone.find(".reference_list");
+        for (i = 0; i < len; i++) {
+          $app.append("<li><a href='" + references[i].url + "' target='_blank'>" + references[i].title + "</a></li>");
         }
       }
       $parent.append($clone);
