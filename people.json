@@ -1,5 +1,23 @@
 [
   {
+    "name": "Cristina López-Pernía",
+    "year": "2025 - Present",
+    "degree": "Research Scientist II",
+    "major": "MSE",
+    "description": "Dr. Cristina López-Pernía earned her PhD in 2021 at the University of Seville, focusing on zirconia ceramic composites with graphene-based materials, and conducted research stays at INSA Lyon and the Centre for Energy Research in Budapest. Then, she worked as a postdoctoral researcher at Brown University on toughening mechanisms of 2D nanomaterials in ceramic nanocomposites. Currently, she is a research scientist in the groups of Juan Pablo Correa-Baena and Natalie Stingelin Currently, Cristina joined Juan Pablo Correa-Baena and Natalie Stingelin research groups as a research scientist studying metal halide perovskite using thermal analysis techniques. In her free time, she enjoys hiking, fencing, soccer and participating in science outreach activities bringing.",
+    "email": "cpernia3@gatech.edu",
+    "img": "Cristina_López_Pernía.png"
+  },
+  {
+    "name": "Sinay Simanta Behera",
+    "year": "2025 - Present",
+    "degree": "Postdoc",
+    "major": "MSE",
+    "description": "Sinay is a postdoctoral researcher in the Stingelin Lab, having joined in January 2025. His research focuses on designing advanced photonic structures using nanolithography techniques on solution-processable organic–inorganic hybrid films, with applications in diverse light–matter interaction studies. Sinay earned his PhD in Physics from JNCASR, India, in 2024, where his thesis explored modification of emitter dynamics through light–matter coupling in confined structures. Outside the lab, he enjoys spending time in nature, playing sports, and reading novels.",
+    "email": "sbehera45@gatech.edu",
+    "img": "Sinay_Simanta_Behera.jpg"
+  },
+  {
     "name": "Abdulaziz Aldubayan",
     "year": "2019 - Present",
     "degree": "PhD",
@@ -45,15 +63,6 @@
     "img": "matteo.png"
   },
   {
-    "name": "Jude Kpare",
-    "year": "2023 - Present",
-    "degree": "PhD",
-    "major": "MSE",
-    "description": "Jude is a PhD student in the Stingelin Lab and a member of the Center for Soft PhotoElectroChemical Systems (SPECS). His research focuses on developing organic semiconductors for renewable energy applications specifically in solar energy harvesting, while also understanding their optical, thermal and electrochemical properties. Jude received his B.Sc. in Materials Engineering from the Kwame Nkrumah University of Science and Technology, Ghana in 2021. His research there centered on fabricating recycled PE/graphene composites for electronic packaging. He also founded the Materials Innovation Hub, a student club focused on inspiring students' interest in MSE and fostering innovation. At his leisure time, he enjoys watching soccer, playing video games, cooking, and playing the piano.",
-    "email": "jkpare3@gatech.edu",
-    "img": "jude.png"
-  },
-  {
     "name": "Zhihao Feng",
     "year": "2023 - Present",
     "degree": "PhD",
@@ -63,13 +72,49 @@
     "img": "zhihao.png"
   },
   {
+    "name": "Jude Kpare",
+    "year": "2023 - Present",
+    "degree": "PhD",
+    "major": "MSE",
+    "description": "Jude is a PhD student in the Stingelin Lab and a member of the Center for Soft PhotoElectroChemical Systems (SPECS). His research focuses on developing organic semiconductors for renewable energy applications specifically in solar energy harvesting, while also understanding their optical, thermal and electrochemical properties. Jude received his B.Sc. in Materials Engineering from the Kwame Nkrumah University of Science and Technology, Ghana in 2021. His research there centered on fabricating recycled PE/graphene composites for electronic packaging. He also founded the Materials Innovation Hub, a student club focused on inspiring students' interest in MSE and fostering innovation. At his leisure time, he enjoys watching soccer, playing video games, cooking, and playing the piano.",
+    "email": "jkpare3@gatech.edu",
+    "img": "jude.png"
+  },
+  {
     "name": "Volha Heben",
     "year": "2024 - Present",
     "degree": "PhD",
     "major": "MSE",
-    "description": "Volha is a PhD student who joined the Stingelin Lab in Fall 2024. Her research will focus on designing, developing, and investigating multilayer photonic structures incorporating hybrid inorganic/organic materials for light-management applications. She holds a B.S. in Chemistry from the Department of Chemistry at Aristotle University of Thessaloniki (AUTh), Greece, and earned her M.S. in Nanoscience and Nanotechnologies from the Department of Physics at the same university in 2023. Volha also worked as a researcher in the Organic Electronics group at the Nanotechnology Lab LTFN at AUTh, where she focused on the development and characterization of flexible printed nano-layers and organic photovoltaic devices. In her spare time, she enjoys cooking, traveling, listening to music, and watching movies.",
+    "description": "Volha is a PhD student who joined the Stingelin Lab in Fall 2024. Her research focuses on designing, developing, and investigating multilayer photonic structures incorporating hybrid inorganic/organic materials for light-management applications. She holds a B.S. in Chemistry from the Department of Chemistry at Aristotle University of Thessaloniki (AUTh), Greece, and earned her M.S. in Nanoscience and Nanotechnologies from the Department of Physics at the same university in 2023. Volha also worked as a researcher in the Organic Electronics group at the Nanotechnology Lab LTFN at AUTh, where she focused on the development and characterization of flexible printed nano-layers and organic photovoltaic devices. In her spare time, she enjoys cooking, traveling, listening to music, and watching movies.",
     "email": "vheben3@gatech.edu",
     "img": "volha.jpg"
+  },
+  {
+    "name": "Joshua Ako",
+    "year": "2025 - Present",
+    "degree": "PhD",
+    "major": "MSE",
+    "description": "Co-advised by Dr. Jason Azoulay, Joshua focuses on developing sustainable aromatic polymers through gold-catalyzed transformations of lignin and lignin-derived materials. His research uses homogeneous gold catalysis to enable direct polymerization reactions and post-modification of technical lignin, creating pathways to convert renewable biomass into high-performance materials that can replace petroleum-based polymers. He received his MPhil. in Materials Science and Engineering in 2024, and his B.S. in Oceanography (Marine Science) in 2019, both from the University of Ghana. In his free time, Joshua enjoys reading, watching soccer and comedy, and music.",
+    "email": "jako3@gatech.edu",
+    "img": "Joshua_Ako.jpg"
+  },
+   {
+    "name": "Laura Mae Killingsworth",
+    "year": "2025 - Present",
+    "degree": "Undergraduate",
+    "major": "MSE",
+    "description": "Laura Mae is an undergraduate student who joined the Stingelin Lab in Summer 2025. She assists with research on mixed ionic conducting polymers, specifically P3HHT derivatives and fullerene blends. She transferred from the University of Central Florida where she transitioned from photonics to biomaterials. She is a member of the Birdwatchers Club and participates in conservation efforts, hiking, and camping. After graduating, she hopes to specialize in biotechnology and raise quail.",
+    "email": "lmk6@gatech.edu",
+    "img": "Laura_Mae_Killingsworth.png"
+  },
+  {
+    "name": "James Nishimoto",
+    "year": "2025 - Present",
+    "degree": "Undergraduate",
+    "major": "MSE",
+    "description": "James assists Matteo with understanding the effect of irradiation on the optical properties of Poly(3-hexylthiophene) or P3HT. He is interested in learning about different characterization techniques of materials. In his free time, he likes to learn about the world to get a better understanding of the current state of the world.",
+    "email": "Jnishimoto3@gatech.edu",
+    "img": "James_Nishimoto.png"
   },
   {
     "name": "Naomi Deneke ",
