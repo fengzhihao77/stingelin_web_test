@@ -260,10 +260,10 @@ nav ul a,
 
 .project-list .image {
     width: auto;
-    height: 128px;
+    height: 228px;
     overflow: hidden;
     float: left;
-    width: 135px;
+    width: 235px;
     background-size: cover;
     background-position: center;
     border-radius: 2px
@@ -277,7 +277,7 @@ nav ul a,
 .project-list .wrap {
     overflow: hidden;
     float: left;
-    width: 150px;
+    width: 250px;
     padding-right: 5px
 }
 
