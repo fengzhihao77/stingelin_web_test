@@ -2,11 +2,6 @@
 	{
 		"name" : "Phase Behavior and Functional Materials",
 		"description" : "We investigate the thermal phase behavior of functional materials to understand stability and structure/property relationships in the field of organic photovoltaics, thermoelectrics, and OLEDs to name a few applications. Our lab specializes in thermal analysis techniques to assess the behavior of materials from a fundamental point of view by using thermogravimetry and calorimetry. Moreover, Fast Scanning Calorimetry (FSC) is employed to probe thermal events that can only be detected at ultrafast heating and cooling rates. It is also used to age and anneal extremely small samples, to investigate how the phase behavior of functional materials is influenced thermodynamically and kinetically. On this note, we are also interested in understanding the thermal phase behavior of hybrid halide perovskites, which guides processing and assembly of the material via thermal evaporation. Moreover, decomposition pathways, precursors volatility and phase stability could directly impact film formation, reproducibility and, overall, device performance, and information on these processes need to be gained.",
-		"applications" : [
-			"Organic photovoltaics",
-			"Thermoelectrics",
-			"Organic light-emitting diodes"
-		],
 		"references" : [
 			 {
 				"title": "Direct Calorimetric Observation of the Rigid Amorphous Fraction in a Semiconducting Polymer",
@@ -26,13 +21,6 @@
 	{
 		"name" : "Advanced Optical Systems",
 		"description" : "This research theme concentrates on the design, fabrication, and application of photonic structures capable of precisely manipulating light for advanced optical and quantum technologies. We employ solution-processable, high-refractive-index, low-loss organic-inorganic based hybrid materials to photonic structures on rigid substrates, flexible supports, and optical fibers. These materials enable Bragg reflectors and surface-structured films while supporting the development of 2D and 3D photonic crystals through scalable solution and melt processes. By integrating these approaches with cleanroom-based nanofabrication (e-beam lithography, nanoimprint, and microfabrication), various designs of photonic structures that exhibit optical cavities, engineered photonic bandgap, and plasmonic enhancements are envisioned.",
-		"applications" : [
-			"Photonic structures, including Bragg reflectors, wave guides, chirped mirrors and flat optics",
-			"Study of emitter dynamics in ordered and disordered photonic structures",
-			"Solution-processed microcavities (e.g. for realization of Laser cavities and polariton devices)",
-			"Quantum Optics",
-			"Electrode microarrays (e.g. for sensors, bioelectronics applications)"
-		],
 		"references" : [
 			 {
 				"title": "Titanium Oxide Hydrates As Versatile Polymer Crosslinkers And Molecular-Hybrid Formers",
@@ -56,14 +44,6 @@
 	{
 		"name" : "Polymer Semiconductors for Energy Storage, Conversion, and Bioelectronics",
 		"description" : "We seek to develop structure-property relationships for polymer semiconductors in the context of energy storage, conversion, and bioelectronics applications. Recurring themes include controlling polymer assembly from solution/melt or to elucidate the phase behavior of multicomponent systems. To this end, we employ a variety of structural characterization methods, including thermal analysis, X-ray scattering, microscopy, NMR, and Raman spectroscopy. Recent efforts have sought to expand these tools to understand the structural evolution in electrochemical environments relevant to biosensing or energy storage/conversion. We then correlate structure with the optoelectronic properties of the polymer, as determined from a variety of spectroscopic and electrochemical probes.",
-		"applications" : [
-			"Neural prosthesis applications (or brain-machine-interfaces). Electrode microarrays (e.g. for sensors, bioelectronics applications; sensors)",
-			"Cardiac tissues",
-			"Sensor arrays with targeted application, e.g., in disposable diagnostic",
-			"Solar fuels based on liquid inorganic:organic hybrids for photocatalytic fuel cells",
-			"Ion-selective membranes",
-			"Photocatalytically active thin films and fibers (e.g. for water splitting, water purification)"
-		],
 		"references" : [
 			 {
 				"title": "A Materials Physics Perspective On Structure–Processing–Function Relations In Blends Of Organic Semiconductors",
@@ -87,13 +67,7 @@
 	{
 		"name" : "Biopolymers and Sustainable Technologies",
 		"description" : "The common focus of this research topic is to lead the transition from outdated technologies to stronger and more reliable solutions for the future. We do this by exploring ways to replace petroleum-based functional and commodity plastics with natural and biopolymers such as cellulose, chitin and lignin. These materials offer a more biodegradable, renewable, and recyclable alternative to conventional plastics. We achieve this by investigating their structure–property relationships to optimize performance in gas barrier properties, mechanical strength, and moisture resistance. Another strategy is to recover and upcycle existing polymeric materials that are currently non-recyclable due to the lack of adequate technologies. To address this issue, we focus on radiation induced modifications to recover, reuse and break down polymers. The same approach is also used to investigate ways to selectively target polymer layers in multilayer systems, to enable their recycling. Alternatively, we explore homogeneous gold catalysis as a promising approach for synthesizing new polymeric materials. This strategy encompasses both the synthesis of biopolymers from renewable bio-monomers and the direct upcycling of biopolymers derived from waste streams into functional materials with enhanced properties. We investigate how lignin, an abundant waste product from the pulp and paper industry, can be transformed into valuable polymeric feedstock through gold-catalyzed processes. This approach provides sustainable alternatives to petroleum-based functional and commodity plastics, thereby contributing to a circular economy model in which industrial waste serves as valuable feedstock for next-generation biopolymer production.",
-		"applications" : [
-			"Photonic structures, including dielectric Bragg reflectors, wave guides and microcavities (see also: ‘Advanced Optical Systems’)",
-			"Electrode microarrays (e.g. for sensors, bioelectronics applications; sensors)",
-			"Ferroelectric memories",
-			"Flexible substrates for lipid bilayer growth (for the development of e.g. virus sensors; see also: ’Bioelectronics’)",
-			"Photo-catalysis (via photonic-mediate light harvesting/light localization)"],
-			"references" : [
+		"references" : [
 			 {
 				"title": "Low-water-permeability Foils based on Bio-Renewable Cellulose Derivatives",
 				"url"  : "https://pubs.rsc.org/en/content/articlehtml/2024/su/d4su00425f"
