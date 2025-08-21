@@ -90,6 +90,15 @@
     "img": "volha.jpg"
   },
   {
+    "name": "Ahmed Nabeeh",
+    "year": "2024 - Present",
+    "degree": "PhD",
+    "major": "ChBE",
+    "description": "Co-advised by Juan-Pablo Correa-Baena, Ahmed studies how we can use passivation molecules to that inhibit the degradation pathways and allow for recovery of the performance to increase the lifetime of the perovskite. He received his B.S. and M.S. in Chemical Engineering from Texas A&M University. He Enjoys running, working out and reading.",
+    "email": "amohamed73@gatech.edu",
+    "img": "Ahmed_Nabeeh.png"
+  },
+  {
     "name": "Joshua Ako",
     "year": "2025 - Present",
     "degree": "PhD",
@@ -113,8 +122,44 @@
     "degree": "Undergraduate",
     "major": "MSE",
     "description": "James assists Matteo with understanding the effect of irradiation on the optical properties of Poly(3-hexylthiophene) or P3HT. He is interested in learning about different characterization techniques of materials. In his free time, he likes to learn about the world to get a better understanding of the current state of the world.",
-    "email": "Jnishimoto3@gatech.edu",
+    "email": "jnishimoto3@gatech.edu",
     "img": "James_Nishimoto.png"
+  },
+  {
+    "name": "Jung Hyun Kim",
+    "year": "2025 - Present",
+    "degree": "Undergraduate",
+    "major": "ChBE",
+    "description": "Jung Hyun is an undergraduate researcher in the Stingelin Lab, assisting Volha Heben with the creation of multilayer photonic structures incorporating hybrid organic/inorganic materials. He previously worked in the Jo Lab at Emory University, where he spent a year developing his wet lab skills. In his free time, he enjoys watching movies, listening to music, and making pottery.",
+    "email": "jkim3906@gatech.edu",
+    "img": "Jung_Hyun_Kim.jpg"
+  },
+   {
+    "name": "Dylan Harrison",
+    "year": "2023 - Present",
+    "degree": "Undergraduate",
+    "major": "ChBE",
+    "description": "Dylan works with Henry Kantrow and Jude Kpare on the study of the electrochemical abilities of organic polymers and how they relate to morphological changes with surfactant injections to investigate alternative energy solutions. He plans to graduate in August 2026 with a B.S. in chemical engineering and begin graduate studies pursuing a pHD in process modeling and renewable energy systems. In his spare time, he enjoys reading, watching movies, playing tennis, and being outdoors.",
+    "email": "dharrison48@gatech.edu",
+    "img": "Dylan_Harrison.jpg"
+  },
+  {
+    "name": "Sebastian Toyotoshi",
+    "year": "2022 - Present",
+    "degree": "Undergraduate",
+    "major": "ChBE",
+    "description": "Sebastian is a first-year undergraduate student currently working under Henry Kantrow as a research assistant. He works to design and construct a device to analyze the photophysics of P3HT and other semiconducting polymers using electroabsorption spectroscopy. In his free time, he enjoys playing tabletop games, baking, and walking through nature.",
+    "email": "stoyotoshi3@gatech.edu ",
+    "img": "sebastian.jpg"
+  },
+  {
+    "name": "Sabrina Klein",
+    "year": "2022 - 2024",
+    "degree": "Undergrad, Alumni",
+    "major": "ChBE",
+    "description": "Working in both the Stingelin and Meredith labs, Sabrina is an undergraduate research assistant to Tanner Hickman. She investigates the use of titanium oxide hydrates in photocurable cellulose based gas barrier films. Upon graduating in May 2024, Sabrina will start her career in a chemical plant as a process engineer. In her free time, she enjoys reading, astronomy, and playing board games.",
+    "email": "sklein43@gatech.edu",
+    "img": "sabrina.jpg"
   },
   {
     "name": "Naomi Deneke ",
@@ -200,8 +245,8 @@
   },
   {
     "name": "Brandon Perry",
-    "year": "2020 - Present",
-    "degree": "Undergrad",
+    "year": "2020 - 2022",
+    "degree": "Undergrad, Alumni",
     "major": "MSE",
     "description": "Brandon Perry studies flow cell batteries that can be renewed using UV light. His research looks at the reaction of a Ti-organic hybrid system and how various conditions such as electrode preparation, pH, and viscosity intensity of UV light and more can affect the performance of the battery. He plans on graduating in Summer 2024. With his spare time, Brandon likes hiking, reading, writing, and drawing.",
     "email": "bperry39@gatech.edu",
@@ -236,8 +281,8 @@
   },
   {
     "name": "Silvia Paul",
-    "year": "2022 - Present",
-    "degree": "Undergrad",
+    "year": "2022 - 2024",
+    "degree": "Undergrad, Alumni",
     "major": "ChBE",
     "description": "As an undergraduate assistant to Amalie Atassi, she uses differential scanning calorimetry to construct phase diagrams of non-fullerene acceptors blended with a donor polymer to find the optimum blend composition for more efficient solar cells. She plans to graduate in May 2024 with a BS in ChBE. Her hobbies include cooking, reading, and hiking.",
     "email": "sroux3@gatech.edu",
@@ -245,7 +290,7 @@
   },
   {
     "name": "Peter Gardner",
-    "year": "2022 - 2023",
+    "year": "2022 - 2024",
     "degree": "Undergrad, Alumni",
     "major": "ChBE",
     "description": "Peter assists Javaz Rolle in both the Stingelin and Meredith labs. He works on using the HTMECH to test interlayer adhesion of polycarbonate bilayers and coating paper with chitin and cellulose to be used as an oxygen barrier in food packaging. After graduating in May 2024, Peter will go into industry as a food engineer. In his free time, he enjoys playing the cello and ultimate frisbee.",
@@ -253,27 +298,9 @@
     "img": "peter.png"
   },
   {
-    "name": "Sabrina Klein",
-    "year": "2022 - Present",
-    "degree": "Undergrad",
-    "major": "ChBE",
-    "description": "Working in both the Stingelin and Meredith labs, Sabrina is an undergraduate research assistant to Tanner Hickman. She investigates the use of titanium oxide hydrates in photocurable cellulose based gas barrier films. Upon graduating in May 2024, Sabrina will start her career in a chemical plant as a process engineer. In her free time, she enjoys reading, astronomy, and playing board games.",
-    "email": "sklein43@gatech.edu",
-    "img": "sabrina.jpg"
-  },
-  {
-    "name": "Sebastian Toyotoshi",
-    "year": "2022 - Present",
-    "degree": "Undergrad",
-    "major": "ChBE",
-    "description": "Sebastian is a first-year undergraduate student currently working under Henry Kantrow as a research assistant. He works to design and construct a device to analyze the photophysics of P3HT and other semiconducting polymers using electroabsorption spectroscopy. In his free time, he enjoys playing tabletop games, baking, and walking through nature.",
-    "email": "stoyotoshi3@gatech.edu ",
-    "img": "sebastian.jpg"
-  },
-  {
     "name": "Joshua Clark",
-    "year": "2022 - Present",
-    "degree": "Undergrad",
+    "year": "2022 - 2023",
+    "degree": "Undergrad, Alumni",
     "major": "ChBE",
     "description": "Josh is a second-year undergraduate student working under Henry Kantrow as a research assistant. During Spring and Summer 2023, he worked on characterizing the phase separation of PBTTT:ionic liquid blends. Currently, he works on conducting in-situ UV-Vis spectroscopy and X-Ray diffraction with electrochemistry on PBTTT:ionic liquid systems. Outside of research, Josh enjoys producing digital music, backpacking, and mountain biking.",
     "email": "jclark370@gatech.edu",
@@ -362,7 +389,7 @@
   },
   {
     "name": "Alexander Chen",
-    "degree": "Undergrad Alumni",
+    "degree": "Undergrad, Alumni",
     "major": "MSE",
     "description": "He focused on processing and analyzing dip-coat film-making methods that can produce consistent thicknesses in multi-layer structures and their relation to specific wavelength transmission and absorbance.",
     "email": "alexchenofnj@gatech.edu",
@@ -370,7 +397,7 @@
   },
   {
     "name": "Allison Brandvold",
-    "degree": "Undergrad Alumni",
+    "degree": "Undergrad, Alumni",
     "major": "MSE",
     "description": "Her research focused on analyzing the properties of polymer mixtures as well as the energies associated with organic materials.",
     "email": "abrandvold6@gatech.edu",
@@ -378,7 +405,7 @@
   },
   {
     "name": "Gavin Rolls",
-    "degree": "Undergrad Alumni",
+    "degree": "Undergrad, Alumni",
     "major": "MSE",
     "description": "He worked with Hongmo Li on establishing a materials design framework to better understand charge transport properties in organic semiconductors.",
     "email": "grolls@gatech.edu",
@@ -386,7 +413,7 @@
   },
   {
     "name": "Jack Terrell",
-    "degree": "Undergrad Alumni",
+    "degree": "Undergrad, Alumni",
     "major": "ChBE",
     "description": "He primarily focused on using semiconducting polymers to produce IPN hydrogels as a platform for bio-electronics.",
     "email": "jterrell20@gatech.edu",
@@ -394,7 +421,7 @@
   },
   {
     "name": "Oladipo Bakare",
-    "degree": "Undergrad Alumni",
+    "degree": "Undergrad, Alumni",
     "major": "ChBE",
     "description": "He investigated the morphology of polymers and their mixtures for application in organic photovoltaics.",
     "email": "obakare7@gatech.edu",
