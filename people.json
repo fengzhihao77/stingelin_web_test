@@ -18,24 +18,6 @@
     "img": "Sinay_Simanta_Behera.jpg"
   },
   {
-    "name": "Abdulaziz Aldubayan",
-    "year": "2019 - Present",
-    "degree": "PhD",
-    "major": "MSE",
-    "description": "Abdulaziz investigates the electrical properties of hybrid inorganic:organic materials and their device integration for the Internet of Things (IoT) applications. Abdulaziz received his B.S. in Electrical Engineering from the University of Birmingham. He also received his M.S. in Materials Science & Engineering from Northwestern University in 2019. Abdulaziz also worked as a research engineer at SABIC CRD at KAUST, where his research focused on design, fabrication, and characterization of flexible metal oxide-based sensors. In his spare time, Abdulaziz enjoys playing tennis, reading, and hiking.",
-    "email": "dubayanmh@gatech.edu",
-    "img": "aziz.jpg"
-  },
-  {
-    "name": "Mark Weber",
-    "year": "2019 - Present",
-    "degree": "PhD",
-    "major": "MSE",
-    "description": "His research investigates the liquid crystalline behavior of conjugated polymer systems as a function of chain rigidity.  He has earned a B.S. degrees in Physics from California State University of Long Beach (2019) in addition to a B.S. in Business Administration from Wagner College (2013).",
-    "email": "mweber47@gatech.edu",
-    "img": "mark.jpg"
-  },
-  {
     "name": "Henry Kantrow",
     "year": "2021 - Present",
     "degree": "PhD",
@@ -107,6 +89,24 @@
     "email": "jako3@gatech.edu",
     "img": "Joshua_Ako.jpg"
   },
+  {
+    "name": "Rebekah Gresham",
+    "year": "2025 - Present",
+    "degree": "PhD",
+    "major": "MSE",
+    "description": "While working on her undergraduate degree in chemistry, Rebekah did research into synthesizing several libraries of poly-yne organic small molecules with potential antibiotic and anti-biofilm properties, and wrote her honors thesis on the synthesis of these molecules and their results in biological tests. Currently, Rebekah is pursuing her PhD in Materials Science and Engineering as an RBI fellow, and she is co-advised by Dr. Stingelin, Dr. Brettmann, and Dr. Lieberman. She is working towards degrading polymer-coated paper, a common packaging material, using flash photothermal treatment (FPT) and enzymatic degradation. In her free time, Rebekah likes to do fencing, baking, gardening, and reading sci-fi and fantasy novels.",
+    "email": "rgresham8@gatech.edu",
+    "img": "Rebekah_Gresham.jpg"
+  },
+  {
+    "name": "Clara Blue Templin",
+    "year": "2025 - Present",
+    "degree": "PhD",
+    "major": "MSE",
+    "description": "Clara began her PhD in Fall 2025 and is co-advised by Dr. Natalie Stingelin and Dr. Scott Danielsen; she is also a member of the Center for Soft PhotoElectroChemical Systems (SPECS). Her research aims to better understand the complex phase behavior of polymer semiconductors and their donor–acceptor (D–A) backbone structure in order to predict structural and electronic properties/behavior of future, unknown semiconducting polymers. She received her B.S. in Materials Science and Engineering (Polymer and Fiber concentration, Industrial Design minor) from Georgia Tech in Spring 2025. In undergrad, she worked in the labs of Dr. Realff (engineering education), Dr. Stebner (metals additive manufacturing), and Dr. Danielsen (lignin-based automotive tires). In her free time, she enjoys baking/cooking, listening to podcasts, painting/drawing, and playing with her cats.",
+    "email": "Ctemplin3@gatech.edu",
+    "img": "Clara_Blue_Templin.png"
+  },
    {
     "name": "Laura Mae Killingsworth",
     "year": "2025 - Present",
@@ -151,6 +151,24 @@
     "description": "Sebastian is a first-year undergraduate student currently working under Henry Kantrow as a research assistant. He works to design and construct a device to analyze the photophysics of P3HT and other semiconducting polymers using electroabsorption spectroscopy. In his free time, he enjoys playing tabletop games, baking, and walking through nature.",
     "email": "stoyotoshi3@gatech.edu ",
     "img": "sebastian.jpg"
+  },
+  {
+    "name": "Abdulaziz Aldubayan",
+    "year": "2019 - Present",
+    "degree": "PhD, Alumni",
+    "major": "MSE",
+    "description": "Abdulaziz investigates the electrical properties of hybrid inorganic:organic materials and their device integration for the Internet of Things (IoT) applications. Abdulaziz received his B.S. in Electrical Engineering from the University of Birmingham. He also received his M.S. in Materials Science & Engineering from Northwestern University in 2019. Abdulaziz also worked as a research engineer at SABIC CRD at KAUST, where his research focused on design, fabrication, and characterization of flexible metal oxide-based sensors. In his spare time, Abdulaziz enjoys playing tennis, reading, and hiking.",
+    "email": "dubayanmh@gatech.edu",
+    "img": "aziz.jpg"
+  },
+  {
+    "name": "Mark Weber",
+    "year": "2019 - Present",
+    "degree": "PhD, Alumni",
+    "major": "MSE",
+    "description": "His research investigates the liquid crystalline behavior of conjugated polymer systems as a function of chain rigidity.  He has earned a B.S. degrees in Physics from California State University of Long Beach (2019) in addition to a B.S. in Business Administration from Wagner College (2013).",
+    "email": "mweber47@gatech.edu",
+    "img": "mark.jpg"
   },
   {
     "name": "Sabrina Klein",
