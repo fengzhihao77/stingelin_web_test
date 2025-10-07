@@ -1,13 +1,20 @@
 [
     {
-        "name" : "Center for Soft PhotoElectroChemical Systems (SPECS)",
+        "name" : "DoE - SPECS",
         "project" : [
             "U.S. Department of Energy award DE-SC0023411"
         ],
         "img" : "SPECS-logo-color@4x.png"
     },
     {
-        "name" : "Deparment of Energy, Basic Energy Sciences",
+        "name" : "NSF - DMREF",
+        "project" : [
+            "U.S. Department of Energy award NSF-2324190"
+        ],
+        "img" : "NSF.png"
+    },
+    {
+        "name" : "DoE - BES",
         "project" : [
             "U.S. Department of Energy award DE-SC0024420"
         ],
