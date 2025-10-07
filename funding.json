@@ -1,5 +1,12 @@
 [
     {
+        "name" : "Center for Soft PhotoElectroChemical Systems (SPECS)",
+        "project" : [
+            "Designing a light-matter quantum-entropy knob"
+        ],
+        "img" : "SPECS-logo-color@4x.png"
+    },
+    {
         "name" : "Deparment of Energy",
         "project" : [
             "Designing a light-matter quantum-entropy knob"
