@@ -2,9 +2,16 @@
     {
         "name" : "Center for Soft PhotoElectroChemical Systems (SPECS)",
         "project" : [
-            "Designing a light-matter quantum-entropy knob"
+            "U.S. Department of Energy award DE-SC0023411"
         ],
         "img" : "SPECS-logo-color@4x.png"
+    },
+    {
+        "name" : "Deparment of Energy, Basic Energy Sciences",
+        "project" : [
+            "U.S. Department of Energy award DE-SC0024420"
+        ],
+        "img" : "DOE.png"
     },
     {
         "name" : "Deparment of Energy",
